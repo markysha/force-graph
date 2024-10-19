@@ -17,9 +17,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vasturiano/force-graph.git"
+    "url": "git+https://github.com/markysha/force-graph.git"
   },
-  "homepage": "https://github.com/vasturiano/force-graph",
+  "homepage": "https://github.com/markysha/force-graph",
   "keywords": [
     "2d",
     "force",
@@ -30,11 +30,11 @@
   ],
   "author": {
     "name": "Vasco Asturiano",
-    "url": "https://github.com/vasturiano"
+    "url": "https://github.com/markysha"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vasturiano/force-graph/issues"
+    "url": "https://github.com/markysha/force-graph/issues"
   },
   "scripts": {
     "build": "rimraf dist && rollup -c",
